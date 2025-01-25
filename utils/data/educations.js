@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Higher Secondary Certificate",
+    duration: "2024- Present",
+    institution: "Barrister Jamiruddin Sircar Collegiate Institute",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Secondary School Certificate",
+    duration: "2018 - 2023",
+    institution: "Shalbahan High School",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Primary Education Final Examination",
+    duration: "2013- 2018",
+    institution: "Khalpara Government Praimary School",
   }
 ]
